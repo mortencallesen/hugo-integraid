@@ -1,4 +1,10 @@
 ---
 label: tester
 hide_body: false
-fields: []
+fields:
+- name: tester
+  type: text
+  config:
+    required: false
+  label: Tester
+  description: This is tester
